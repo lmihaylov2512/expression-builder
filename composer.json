@@ -1,0 +1,17 @@
+{
+  "name": "lmihaylov2512/expression-builder",
+  "type": "library",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Lachezar Mihaylov",
+      "email": "contact@lmihaylov.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "ExpressionBuilder\\": "src/"
+    }
+  }
+}
